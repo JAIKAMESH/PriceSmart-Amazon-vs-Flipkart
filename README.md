@@ -1,5 +1,7 @@
 # PriceSmart-Amazon-vs.-Flipkart
 
+![image](https://github.com/user-attachments/assets/613d1d07-9d5b-4bc8-bde2-caea74ab8cec)
+
 This is an automated testing project using the Selenium testing tool to compare Price between Amazon and Flipkart and show better place for Shopping today. 
 
 # Project Description
