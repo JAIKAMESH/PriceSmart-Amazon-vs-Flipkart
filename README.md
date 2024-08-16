@@ -4,7 +4,7 @@ This is an automated testing project using the Selenium testing tool to compare 
 
 # Project Description
 
-PriceSmart: Amazon vs. Flipkart is an advanced automation tool designed to streamline the process of comparing product prices across two leading e-commerce platforms: Amazon and Flipkart. By automatically extracting and analyzing pricing data from both sites, PriceSmart provides users with real-time insights into which platform offers the best deals on their desired products. The tool helps users make informed purchasing decisions by highlighting the most cost-effective options and potential savings, 
+PriceSmart: Amazon vs. Flipkart is an automation tool designed to streamline the process of comparing product prices across two leading e-commerce platforms: Amazon and Flipkart. By automatically extracting and analyzing pricing data from both sites, PriceSmart provides users with real-time insights into which platform offers the best deals on their desired products. The tool helps users make informed purchasing decisions by highlighting the most cost-effective options and potential savings, 
 ensuring that they always get the best value for their money.
 
 # Installation Instructions
