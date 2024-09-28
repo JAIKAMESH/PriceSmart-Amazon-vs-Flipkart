@@ -1,4 +1,4 @@
-# PriceSmart-Amazon-vs.-Flipkart
+# PriceSmart-Amazon-vs-Flipkart
 
 ![Price](https://github.com/user-attachments/assets/85cd4d96-182f-4570-aaff-8439b9ff19b9)
 
